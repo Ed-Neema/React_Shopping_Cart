@@ -1,4 +1,4 @@
-##Project Description
+## Project Description
 This is a simple Expense tracker project
 ## Available Scripts
 
